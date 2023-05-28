@@ -2,7 +2,7 @@
 ###Happy to see you here.😊
 <!--
 **mystique24/mystique24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 -🔭 I’m currently working on Data Engineering and Data Analysis.
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with data science projects.
 - 💬 Ask me about story building and visualization.
 - 📫 How to reach me: jyotsnabisht24@gmail.com
--->
+
 
 <img align="right" height="200" width="300" alt="" src="https://github.com/aastharawat/aastharawat/blob/master/6888372964aafeed19614984af6efd9d_i-passed-every-coding-challenge-at-flatiron-school-on-my-first-try-_800-600.gif" />
 
